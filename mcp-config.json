@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "ai-trader": {
+      "command": "python",
+      "args": ["-m", "src.mcp_server"],
+      "cwd": "/Users/blu/Repos/ai-trader",
+      "env": {
+        "PYTHONPATH": "/Users/blu/Repos/ai-trader"
+      }
+    }
+  }
+}
